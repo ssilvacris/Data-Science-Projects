@@ -10,7 +10,7 @@ The following tools were used:
 * Tableau
 
 
-### [Quantium Data Analytics Virtual Experience Program](https://github.com/ssilvacris/Data-Science-Projects/new/main/Quantium_1)
+### [Quantium Data Analytics Virtual Experience Program](https://github.com/ssilvacris/Data-Science-Projects/tree/main/Quantium_1)
 ***
 Project with the objective to conduct analysis of clients and their transaction dataset. Furthermore, it was possible identify customer purchasing behaviours. All the project was develop in python This project contains:
 * Data validation
