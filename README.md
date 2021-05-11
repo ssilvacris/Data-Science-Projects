@@ -2,7 +2,7 @@
 All data science projects I have been doing so far.
 
 
-### [NLP and New York Times](https://github.com/ssilvacris/Data-Science-Projects/blob/main/NLP_%20Headline_NYTimes/README.md)
+### [NLP and New York Times](https://github.com/ssilvacris/Data-Science-Projects/tree/main/NLP_%20Headline_NYTimes)
 ***
 Trough the Natural language processing (NLP), the project shows how long it took the word COVID to gain relevance between January and July 2020.
 The following tools were used:
